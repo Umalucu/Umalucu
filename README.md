@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando como Técnico de Informática; 
 - 🌱 Atualmente estou aprendendo Análise e Desemvolvimento de Sistemas;
-- 👯 Estou procurando colaborar em projetos conforme for adquirindo os ppara tal;
+- 👯 Estou procurando colaborar em projetos conforme for adquirindo conhecimentos para tal;
 - 🤔 Estou procurando ajuda com os meus estudos em Java, JavaScript, Python, C++, Dev Mobile; 
 - 💬 Pergunte-me sobre Design Gráfico, Equipamentos de Audio Visual, Manutenção de PC's;
 - ⚡ Curiosidade: Sou intusiasta em Robotica, Arduino, curto games de aviação estilo DogFights;
